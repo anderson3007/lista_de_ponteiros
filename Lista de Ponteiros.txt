@@ -1,0 +1,7 @@
+Nome: Anderson Santos de Lima Silva
+Matrícula: 20220072096
+  
+Questão 01:
+            a) O resultado é 0, pois o ponteiro p aponta para o endereço de i e o ponteiro q aponta para o endereço de j.Ou seja, p e q não apontam para o mesmo endereço de memória.
+
+            b) 
