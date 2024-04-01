@@ -4,4 +4,11 @@ Matrícula: 20220072096
 Questão 01:
             a) O resultado é 0, pois o ponteiro p aponta para o endereço de i e o ponteiro q aponta para o endereço de j.Ou seja, p e q não apontam para o mesmo endereço de memória.
 
-            b) 
+            b) O resultado é -2 porque o ponteiro p aponta para o endereço de i e o ponteiro q aponta para o endereço de j. ou seja, o valor de i é 3 e o valor de j                 é 5.
+
+            c) O resultado é 3, pois o **&p é uma desrrefeência de p, que é o endereço de i, que é 3.
+
+            d) O resultado final é 10. A divisão resulta em 0,6, mas como é do tipo inteiro, será considerado apenas o inteiro antes da virgula, ou seja, 0. nesse                   caso só resta a soma de 3 + 7, resultando em 10.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Questão 02:  
